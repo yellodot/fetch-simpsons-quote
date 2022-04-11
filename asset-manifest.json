@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fetch-simpsons-quote/static/css/main.66d6193b.css",
+    "main.js": "/fetch-simpsons-quote/static/js/main.196dd269.js",
+    "static/js/787.937459e4.chunk.js": "/fetch-simpsons-quote/static/js/787.937459e4.chunk.js",
+    "index.html": "/fetch-simpsons-quote/index.html",
+    "main.66d6193b.css.map": "/fetch-simpsons-quote/static/css/main.66d6193b.css.map",
+    "main.196dd269.js.map": "/fetch-simpsons-quote/static/js/main.196dd269.js.map",
+    "787.937459e4.chunk.js.map": "/fetch-simpsons-quote/static/js/787.937459e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d6193b.css",
+    "static/js/main.196dd269.js"
+  ]
+}
